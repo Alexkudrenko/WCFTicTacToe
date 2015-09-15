@@ -1,0 +1,11 @@
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\bin\Debug\Interfaces.dll
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\bin\Debug\Interfaces.pdb
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\WFAHostMod.csprojResolveAssemblyReference.cache
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\WFAServer.MainHostForm.resources
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\WFAServer.Properties.Resources.resources
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\WFAHostMod.csproj.GenerateResource.Cache
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\bin\Debug\TicTacToeServer.exe.config
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\bin\Debug\TicTacToeServer.exe
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\bin\Debug\TicTacToeServer.pdb
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\TicTacToeServer.exe
+D:\Files\C# Projects\WCFTicTacToe\WFAServerMod\obj\Debug\TicTacToeServer.pdb

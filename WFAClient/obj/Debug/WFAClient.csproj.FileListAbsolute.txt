@@ -1,0 +1,11 @@
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\WFAClient.csprojResolveAssemblyReference.cache
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\TicTacToe.GameForm.resources
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\WFAClient.csproj.GenerateResource.Cache
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\TicTacToe.exe
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\obj\Debug\TicTacToe.pdb
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\bin\Debug\TicTacToe.exe.config
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\bin\Debug\TicTacToe.exe
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\bin\Debug\TicTacToe.pdb
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\bin\Debug\Interfaces.dll
+D:\Files\C# Projects\WCFTicTacToe\WFAClient\bin\Debug\Interfaces.pdb

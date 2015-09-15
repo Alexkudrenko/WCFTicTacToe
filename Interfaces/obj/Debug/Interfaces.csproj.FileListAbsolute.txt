@@ -1,0 +1,5 @@
+D:\Files\C# Projects\WCFTicTacToe\Interfaces\bin\Debug\Interfaces.dll
+D:\Files\C# Projects\WCFTicTacToe\Interfaces\bin\Debug\Interfaces.pdb
+D:\Files\C# Projects\WCFTicTacToe\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Files\C# Projects\WCFTicTacToe\Interfaces\obj\Debug\Interfaces.dll
+D:\Files\C# Projects\WCFTicTacToe\Interfaces\obj\Debug\Interfaces.pdb
